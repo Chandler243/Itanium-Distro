@@ -1,0 +1,35 @@
+launcher: 0.5.0
+current:
+recommended: 0.1
+latest: 0.1
+lib-1: &lib-1
+    commons-io: 2.1
+    commons-lang3: 3.1
+    guava: 12.0.1
+    joda-time: 2.0
+    slick: 0.3
+    snakeyaml: 1.9
+    trove4j: 3.0.1
+builds:
+    '0.1':
+        libraries:
+        minecraft: 1.4.6
+        mods:
+            basemods: itanium-v0.7
+            advancedsolar: v3.3.2
+            buildcraft: v3.3.0
+            forestry: v1.6.4.1
+            z-itanium-configs: v0.8
+            railcraft: v6.12.2.0
+            ic2: v1.112.187
+            ic2-gregtech: v275d
+            ic2-compactsolars: v3.2.0.21
+            ic2-gravisuit: v1.6
+            ic2-advancedmachines: v4.7b
+            advancedsolar: v3.3.2
+            ironchests: v4.5.1.199
+            forestry: v1.6.4.2
+            extrabiomesxl: v3.7.0a
+            reisminimap: v3.2_06
+            
+            
