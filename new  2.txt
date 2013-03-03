@@ -1,4 +1,0 @@
-- Anti Virus Updated
-- Passwords removed
-- Pictures from Camera have been copied to the "Pictures" folder"
-- Print Screen can be summoned by holding [CTRL] and pressing [P]
