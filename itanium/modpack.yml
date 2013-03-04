@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: 0.9.1
+current: 0.9.2
 recommended: 0.9
-latest: 0.9.1
+latest: 0.9.2
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,6 +11,51 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    '0.9.2':
+        libraries:
+        minecraft: 1.4.7
+        mods:
+            basemods: itanium-v0.9.2
+            z-itanium-configs: v0.9.2
+            buildcraft: v3.4.0
+            ic2-advancedmachines: v4.7b
+            ee3: vpre1f
+            extrabiomesxl: v3.8.0
+            forestry: v2.0.0.7
+            ic2-gregtech: v276d
+            ic2: v1.115.752
+            advancedsolar: v3.3.2
+            ic2-gravisuit: v1.6
+            netherores: v1.4.6
+            powerconverters: v2.0.0
+            thermalexpansion: v2.1.7
+            redpower: v2.0pre6
+            railcraft: v6.15.2.0
+            traincraft: v3.1.13
+            codechickencore: v0.7.1.0
+            nei: v1.4.5.1
+            reisminimap: v3.2_06
+            ironchests: v4.5.2.207
+            mekanism: v5.2.3b2
+            basiccomponents: v1.2.5.337
+            fluidmechanics: v0.2.6.14
+            assemblyline: v0.2.4.68
+            atomicscience: v0.3.6.144
+            electricexpansion: v1.4.1
+            modularpowersuits: v0.2.0-42
+            gregslighting: v1.7.1
+            highlands: v1.2.2
+            lanterns: v1.1.5
+            metallurgy: v2.4
+            stevescarts: v2.0.0.a48
+            jammyfurniture: v4.0
+            thaumcraft: v3.0.3
+            customnpc: v1.4.6
+            fancyglass: v1.0.2
+            computercraft: v1.481
+            immibiscore: v52.2.5
+            extrabees: v1.5.0.2
+            ccaddons: v1
     '0.9.1':
         libraries:
         minecraft: 1.4.7
