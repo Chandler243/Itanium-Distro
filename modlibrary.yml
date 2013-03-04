@@ -16,6 +16,7 @@ mods:
             itanium-v0.7:
             itanium-v0.9:
             itanium-v0.9.1:
+            itanium-v0.9.2:
             vanilla-v1.4.4:
             vanilla-v1.3.2:
             vanilla-v1.3.1:
@@ -1237,3 +1238,4 @@ mods:
             v0.8:
             v0.9:
             v0.9.1:
+            v0.9.2:
